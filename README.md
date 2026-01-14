@@ -1,1 +1,3 @@
-# zamus.github.io
+# zamus
+
+Season 2026
